@@ -14,7 +14,7 @@ available, etc!
 
 ### Running Aboky Locally
 
-You can test your hubot by running the following, however some plugins will not
+You can test your Aboky by running the following, however some plugins will not
 behave as expected unless the [environment variables](#configuration) they rely
 upon have been set.
 
