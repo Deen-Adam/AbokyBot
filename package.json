@@ -4,7 +4,7 @@
   "private": true,
   "author": {
     "name": "Deen Adam",
-    "email": "deenysoft@gmail.com",
+    "email": "deensname@gmail.com",
     "url": "http://deenysoft.com"
   },
   "contributors": [{
@@ -14,7 +14,7 @@
     "name": "Tyson Blell",
     "email": "blelltyson@gmail.com"
   }],
-  "description": "Friendly Bot",
+  "description": "Aboky Bot",
   "keywords": [
     "hubot",
     "bot",
